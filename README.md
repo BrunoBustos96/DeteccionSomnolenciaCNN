@@ -25,10 +25,10 @@ Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de 
 En el caso de tener varios repositorios, realizar la guía correspondiente para cada uno.
 
 ## Creditos
-Tracy Estefania Loza
-Israel Algodón
-Bruno Bustos
-Naviré
+-Tracy Estefania Loza
+-Israel Algodón
+-Bruno Bustos
+-Naviré
 
 Mencionar alguna libreria que fue útil o sirvió de inspiración para prototipar el proyecto. 
 
