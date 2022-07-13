@@ -40,6 +40,7 @@ GitHub del autor del artículo: https://github.com/dustin-stew
 
 Estructura de las Redes Neuronales Convolucionales inspiradas de: https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/master/notebooks/Laboratorio%2011_%20Redes%20Neuronales%20Convolucionales.ipynb
 
+Base para el uso de imágenes en Colab a través de OpenCV: https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/087b9e0474e5497a03c6c8073e79721d24da3ce1/notebooks/Laboratorio%201_%20Introducci%C3%B3n%20a%20Colab,%20OpenCV%20y%20Numpy.ipynb
 Github del autor del Notebook: https://github.com/EdwinTSalcedo
 
 Métricas del modelo decididas a partir de: https://towardsdatascience.com/a-look-at-precision-recall-and-f1-score-36b5fd0dd3ec
