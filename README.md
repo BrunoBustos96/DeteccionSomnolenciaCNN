@@ -4,9 +4,11 @@ Proyecto final para el Bootcamp en Visión Computacional para los Objetivos de D
 
 ## DeteccionSomnolenciaCNN
 Backend del proyecto final HackCities desarrollado en Jupyter Notebook y Colaboratory utilizando liberías de Procesamiento de Imágenes y Aprendizaje Profundo
+
 ## Motivación
-Una breve descripción de la motivación detrás del proyecto.
-Responder lo siguiente: ¿por qué existe el proyecto? ¿Qué problema soluciona el proyecto?
+Los accidentes de tránsito son un problema grave en nuestro país, y aunque los efectos del alcohol y el cambio de carril sean las principales causas de dichos accidentes, la tercera más relevante es la somnolencia de los conductores, problema que puede ser atacado con una solución que implemente visión computacional en dispositivos de bajo costo.
+
+Dentro de los Objetivos de desarrollo sostenible, este proyecto se concentra principalmente en 2: Salud y bienestar, buscando mejorar la seguridad vial de peatones y conductores; e Industria, innovación e infraestructura, buscando proponer soluciones innovadoras en nuestro entorno que puedan tener un impacto económico positivo.
 
 ## Capturas de pantalla
 Incluir logos o capturas de pantalla de las interfaces mas relevantes del proyecto.
@@ -34,11 +36,15 @@ Funciones de detección adaptadas de https://towardsdatascience.com/drowsiness-d
 
 GitHub del autor del artículo: https://github.com/dustin-stew
 
+Estructura de las Redes Neuronales Convolucionales inspiradas de https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/master/notebooks/Laboratorio%2011_%20Redes%20Neuronales%20Convolucionales.ipynb
+
+Github del autor del Notebook: https://github.com/EdwinTSalcedo
+
 ## Licencia
 
 The MIT License
 
-Copyright (c) 2020 Splitvision
+Copyright (c) 2022 SplitVision
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
