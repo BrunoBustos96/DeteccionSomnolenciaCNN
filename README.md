@@ -3,7 +3,7 @@
 Proyecto final para el Bootcamp en Visión Computacional para los Objetivos de Desarrollo Sostenible Hackcities
 
 ## DeteccionSomnolenciaCNN
-Backend del proyecto final HackCities desarrollado en Jupyter Notebook y Colaboratory?
+Backend del proyecto final HackCities desarrollado en Jupyter Notebook y Colaboratory utilizando liberías de Procesamiento de Imágenes y Aprendizaje Profundo
 ## Motivación
 Una breve descripción de la motivación detrás del proyecto.
 Responder lo siguiente: ¿por qué existe el proyecto? ¿Qué problema soluciona el proyecto?
