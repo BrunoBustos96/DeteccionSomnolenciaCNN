@@ -30,8 +30,8 @@ Incluir logos o capturas de pantalla de las interfaces mas relevantes del proyec
 -face_recognition
 
 ## Funcionalidades más importantes
--Extracción del área de los ojos para una clasificación más precisa
--Modelo de Redes Neuronales Convolucionales de varias capas con una precisión alta
+-Extracción del área de los ojos para una clasificación más precisa  
+-Modelo de Redes Neuronales Convolucionales de varias capas con una precisión alta  
 -Clasificación en tiempo real de somnolencia con etiquetas
 
 ## Instalación
