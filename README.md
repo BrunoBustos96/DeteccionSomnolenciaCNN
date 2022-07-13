@@ -32,6 +32,8 @@ En el caso de tener varios repositorios, realizar la guía correspondiente para 
 
 Funciones de detección adaptadas de https://towardsdatascience.com/drowsiness-detection-using-convolutional-neural-networks-face-recognition-and-tensorflow-56cdfc8315ad
 
+GitHub del autor del artículo: https://github.com/dustin-stew
+
 ## Licencia
 
 The MIT License
