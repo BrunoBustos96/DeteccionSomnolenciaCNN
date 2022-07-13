@@ -3,21 +3,22 @@
 Proyecto final para el Bootcamp en Visión Computacional para los Objetivos de Desarrollo Sostenible Hackcities
 
 ## DeteccionSomnolenciaCNN
-Backend del proyecto final HackCities desarrollado en Jupyter Notebook y Colaboratory utilizando liberías de Procesamiento de Imágenes y Aprendizaje Profundo
+El Backend del proyecto final de HackCities fue desarrollado en Jupyter Notebook y Colaboratory utilizando liberías de Procesamiento de Imágenes y Aprendizaje Profundo.
 
 ## Motivación
-Los accidentes de tránsito son un problema grave en nuestro país, y aunque los efectos del alcohol y el cambio de carril sean las principales causas de dichos accidentes, la tercera más relevante es la somnolencia de los conductores, problema que puede ser atacado con una solución que implemente visión computacional en dispositivos de bajo costo.
+Los accidentes de tránsito son un grave problema  en nuestro país, y aunque los efectos del alcohol y el cambio de carril sean las principales causas de dichos accidentes, la tercera más relevante es la somnolencia de los conductores, problema que puede ser atacado con una solución que implemente visión computacional en dispositivos de bajo costo. 
 
-Dentro de los Objetivos de desarrollo sostenible, este proyecto se concentra principalmente en 2: Salud y bienestar, buscando mejorar la seguridad vial de peatones y conductores; e Industria, innovación e infraestructura, buscando proponer soluciones innovadoras en nuestro entorno que puedan tener un impacto económico positivo.
+Dentro de los Objetivos de Desarrollo Sostenible, este proyecto se concentra principalmente en 2: ODS 3 "Salud y bienestar", buscando mejorar la seguridad vial de peatones y conductores; y el ODS 11 "Industria, innovación e infraestructura", buscando proponer soluciones innovadoras en nuestro entorno que puedan tener un impacto económico positivo.
 
 ## Capturas de pantalla
 Incluir logos o capturas de pantalla de las interfaces mas relevantes del proyecto.
 
 ## Tecnologías/Frameworks utilizados
-Ejemplo) - ESP32
-- Arduino 
-- Amazon IoT 
-- Atom
+-Numpy
+-OpenCV
+-TensorFlow
+-Keras
+-face_recognition
 
 ## Funcionalidades más importantes
 -Extracción del área de los ojos para una clasificación más precisa
@@ -28,11 +29,10 @@ Ejemplo) - ESP32
 Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de desarrollo corriendo con el presente repositorio. 
 En el caso de tener varios repositorios, realizar la guía correspondiente para cada uno.
 
-## Creditos
+## Créditos
 -Tracy Loza  
 -Israel Algodón  
 -Bruno Bustos  
--Naviré Ticona
 
 Funciones de detección adaptadas de: https://towardsdatascience.com/drowsiness-detection-using-convolutional-neural-networks-face-recognition-and-tensorflow-56cdfc8315ad
 
