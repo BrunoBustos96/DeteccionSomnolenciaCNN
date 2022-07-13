@@ -19,8 +19,10 @@ Ejemplo) - ESP32
 - Amazon IoT 
 - Atom
 
-## Funcionalidades mas importantes
-Responder: ¿Cuáles son las funcionalidades mas interesantes de tu proyecto?
+## Funcionalidades más importantes
+-Extracción del área de los ojos para una clasificación más precisa
+-Modelo de Redes Neuronales Convolucionales de varias capas con una precisión alta
+-Clasificación en tiempo real de somnolencia con etiquetas
 
 ## Instalación
 Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de desarrollo corriendo con el presente repositorio. 
@@ -32,13 +34,17 @@ En el caso de tener varios repositorios, realizar la guía correspondiente para 
 -Bruno Bustos  
 -Naviré Ticona
 
-Funciones de detección adaptadas de https://towardsdatascience.com/drowsiness-detection-using-convolutional-neural-networks-face-recognition-and-tensorflow-56cdfc8315ad
+Funciones de detección adaptadas de: https://towardsdatascience.com/drowsiness-detection-using-convolutional-neural-networks-face-recognition-and-tensorflow-56cdfc8315ad
 
 GitHub del autor del artículo: https://github.com/dustin-stew
 
-Estructura de las Redes Neuronales Convolucionales inspiradas de https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/master/notebooks/Laboratorio%2011_%20Redes%20Neuronales%20Convolucionales.ipynb
+Estructura de las Redes Neuronales Convolucionales inspiradas de: https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/master/notebooks/Laboratorio%2011_%20Redes%20Neuronales%20Convolucionales.ipynb
 
 Github del autor del Notebook: https://github.com/EdwinTSalcedo
+
+Métricas del modelo decididas a partir de: https://towardsdatascience.com/a-look-at-precision-recall-and-f1-score-36b5fd0dd3ec
+
+Objetivos de desarrollo sostenible decididos a partir de la información proveída por Natalia Guerreros Lima en: https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/ODS%20primera%20parte.pdf
 
 ## Licencia
 
