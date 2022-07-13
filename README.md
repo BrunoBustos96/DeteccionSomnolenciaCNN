@@ -25,12 +25,12 @@ Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de 
 En el caso de tener varios repositorios, realizar la guía correspondiente para cada uno.
 
 ## Creditos
--Tracy Estefania Loza  
+-Tracy Loza  
 -Israel Algodón  
 -Bruno Bustos  
--Naviré  
+-Naviré Ticona
 
-Mencionar alguna libreria que fue útil o sirvió de inspiración para prototipar el proyecto. 
+Funciones de detección adaptadas de https://towardsdatascience.com/drowsiness-detection-using-convolutional-neural-networks-face-recognition-and-tensorflow-56cdfc8315ad
 
 ## Licencia
 
