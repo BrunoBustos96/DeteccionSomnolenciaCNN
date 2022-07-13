@@ -35,19 +35,19 @@ En el caso de tener varios repositorios, realizar la guía correspondiente para 
 -Israel Algodón  
 -Bruno Bustos  
 
-Funciones de detección adaptadas de: https://towardsdatascience.com/drowsiness-detection-using-convolutional-neural-networks-face-recognition-and-tensorflow-56cdfc8315ad
+*Funciones de detección adaptadas de: https://towardsdatascience.com/drowsiness-detection-using-convolutional-neural-networks-face-recognition-and-tensorflow-56cdfc8315ad
 
-GitHub del autor del artículo: https://github.com/dustin-stew
+*GitHub del autor del artículo: https://github.com/dustin-stew
 
-Estructura de las Redes Neuronales Convolucionales inspiradas de: https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/master/notebooks/Laboratorio%2011_%20Redes%20Neuronales%20Convolucionales.ipynb
+*Estructura de las Redes Neuronales Convolucionales inspiradas de: https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/master/notebooks/Laboratorio%2011_%20Redes%20Neuronales%20Convolucionales.ipynb
 
-Base para el uso de imágenes en Colab a través de OpenCV: https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/087b9e0474e5497a03c6c8073e79721d24da3ce1/notebooks/Laboratorio%201_%20Introducci%C3%B3n%20a%20Colab,%20OpenCV%20y%20Numpy.ipynb
+*Base para el uso de imágenes en Colab a través de OpenCV: https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/087b9e0474e5497a03c6c8073e79721d24da3ce1/notebooks/Laboratorio%201_%20Introducci%C3%B3n%20a%20Colab,%20OpenCV%20y%20Numpy.ipynb
 
-Github del autor de los últimos 2 Notebooks: https://github.com/EdwinTSalcedo
+*Github del autor de los últimos 2 Notebooks: https://github.com/EdwinTSalcedo
 
-Métricas del modelo decididas a partir de: https://towardsdatascience.com/a-look-at-precision-recall-and-f1-score-36b5fd0dd3ec
+*Métricas del modelo decididas a partir de: https://towardsdatascience.com/a-look-at-precision-recall-and-f1-score-36b5fd0dd3ec
 
-Objetivos de desarrollo sostenible decididos a partir de la información proveída por Natalia Guerreros Lima en: https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/ODS%20primera%20parte.pdf
+*Objetivos de desarrollo sostenible decididos a partir de la información proveída por Natalia Guerreros Lima en: https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/ODS%20primera%20parte.pdf
 
 ## Trabajos Relacionados
 
