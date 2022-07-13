@@ -15,9 +15,9 @@ Incluir logos o capturas de pantalla de las interfaces mas relevantes del proyec
 
 ## Tecnologías utilizadas
 
-- Arduino mega
-- 2 leds (rojo y verde)
-- Motor de 5Vdc
+- Arduino mega  
+- 2 leds (rojo y verde)  
+- Motor de 5Vdc  
 - Cables
 
 ## Frameworks utilizados
