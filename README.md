@@ -14,10 +14,11 @@ Dentro de los Objetivos de Desarrollo Sostenible, este proyecto se concentra pri
 Incluir logos o capturas de pantalla de las interfaces mas relevantes del proyecto.
 
 ## Tecnologías/Frameworks utilizados
--Numpy
--OpenCV
--TensorFlow
--Keras
+-Numpy  
+-Pandas  
+-OpenCV  
+-TensorFlow  
+-Keras  
 -face_recognition
 
 ## Funcionalidades más importantes
@@ -102,10 +103,10 @@ Este es un modelo ampliamente utilizado para detectar 5 filtros: frontal, izquie
 
 
 
-Garcés M., Salgado J., Cruz J., Cañon W. (2015), Sistemas de Detección de Somnolencia en Conductores: inicio, desarrollo y futuro. https://dialnet.unirioja.es/descarga/articulo/5432283.pdf 
-Gupta, V. (22 de octubre de 2018). LearnOpenCV. https://www.learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/ 
-Ramzan M, Ullah H, Mahmood S., Amina I., Ilyas M. (1 mayo 2019), A Survey on State-of-the-Art Drowsiness Detection Techniques. https://ieeexplore.ieee.org/abstract/document/8704263 
-Sanchez E., Limaquispe M., (junio 2018), Sistema de Detección de somnolencia mediante Inteligencia Artificial en Conductores de Vehículos para Alertar la Ocurrencia de Accidentes de Tránsito. https://repositorio.unh.edu.pe/bitstream/handle/UNH/2327/TESIS-2018-INGENIERIA%20ELECTRONICA-LIMAQUISPE%20MIGUEL.pdf?sequence=1&isAllowed=y
+*Garcés M., Salgado J., Cruz J., Cañon W. (2015), Sistemas de Detección de Somnolencia en Conductores: inicio, desarrollo y futuro. https://dialnet.unirioja.es/descarga/articulo/5432283.pdf  
+*Gupta, V. (22 de octubre de 2018). LearnOpenCV. https://www.learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/  
+*Ramzan M, Ullah H, Mahmood S., Amina I., Ilyas M. (1 mayo 2019), A Survey on State-of-the-Art Drowsiness Detection Techniques. https://ieeexplore.ieee.org/abstract/document/8704263  
+*Sanchez E., Limaquispe M., (junio 2018), Sistema de Detección de somnolencia mediante Inteligencia Artificial en Conductores de Vehículos para Alertar la Ocurrencia de Accidentes de Tránsito. https://repositorio.unh.edu.pe/bitstream/handle/UNH/2327/TESIS-2018-INGENIERIA%20ELECTRONICA-LIMAQUISPE%20MIGUEL.pdf?sequence=1&isAllowed=y
 
 ## Licencia
 
