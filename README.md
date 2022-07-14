@@ -84,6 +84,7 @@ En el caso de tener varios repositorios, realizar la guía correspondiente para 
 
 * Objetivos de desarrollo sostenible decididos a partir de la información proveída por Natalia Guerreros Lima en: https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/ODS%20primera%20parte.pdf
 
+# Secciones adicionales
 ## Trabajos Relacionados
 
 ![image](https://user-images.githubusercontent.com/78177589/178857156-aa829a4f-ed59-4a7a-b5aa-47b83d545d80.png)
@@ -98,6 +99,11 @@ Garcés M., Salgado J., Cruz J., Cañon W. (2015), Sistemas de Detección de Som
 Gupta, V. (22 de octubre de 2018). Learn OpenCV. https://www.learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/ 
 Ramzan M, Ullah H, Mahmood S., Amina I., Ilyas M. (1 mayo 2019), A Survey on State-of-the-Art Drowsiness Detection Techniques. https://ieeexplore.ieee.org/abstract/document/8704263 
 Sanchez E., Limaquispe M., (junio 2018), Sistema de Detección de somnolencia mediante Inteligencia Artificial en Conductores de Vehículos para Alertar la Ocurrencia de Accidentes de Tránsito. https://repositorio.unh.edu.pe/bitstream/handle/UNH/2327/TESIS-2018-INGENIERIA%20ELECTRONICA-LIMAQUISPE%20MIGUEL.pdf?sequence=1&isAllowed=y
+
+## Métodos
+
+Los pasos a seguir durante este proyecto fueron inspirados en: [![A How-to-Model Guide for Neuroscience](https://www.eneuro.org/content/7/1/ENEURO.0352-19.2019)]
+![image](https://user-images.githubusercontent.com/78177589/178867188-975fe1fb-ed6a-4bbb-93c9-32e0eaceb10c.png)
 
 
 ## Licencia
