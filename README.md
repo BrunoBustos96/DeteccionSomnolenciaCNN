@@ -1,6 +1,6 @@
 # Detección de Somnolencia usando Redes Neuronales Convolucionales
 
-Proyecto final para el Bootcamp en Visión Computacional para los Objetivos de Desarrollo Sostenible Hackcities
+Proyecto final para el [Bootcamp en Visión Computacional para los Objetivos de Desarrollo Sostenible Hackcities](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs)
 
 ![image](https://user-images.githubusercontent.com/78177589/178857695-c6ab6e2a-e4f6-42d1-b69d-2e1378dd4ce2.png)
 
@@ -66,9 +66,9 @@ Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de 
 En el caso de tener varios repositorios, realizar la guía correspondiente para cada uno.
 
 ## Créditos
-- Tracy Loza (40 %)
 - Israel Algodón (30 %)
 - Bruno Bustos  (30 %)
+- Tracy Loza (40 %)
 
 * Funciones de detección adaptadas de: https://towardsdatascience.com/drowsiness-detection-using-convolutional-neural-networks-face-recognition-and-tensorflow-56cdfc8315ad
 
@@ -102,7 +102,23 @@ Sanchez E., Limaquispe M., (junio 2018), Sistema de Detección de somnolencia me
 
 ## Métodos
 
-Los pasos a seguir durante este proyecto fueron inspirados en: [!A How-to-Model Guide for Neuroscience](https://www.eneuro.org/content/7/1/ENEURO.0352-19.2019)
+Los pasos a seguir durante este proyecto fueron inspirados en: [A How-to-Model Guide for Neuroscience](https://www.eneuro.org/content/7/1/ENEURO.0352-19.2019), combinando con funcionalidades de un sistema completo aprendidas durante el presente [Bootcamp](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs), ya que:
+
+1. Se definió un objetivo
+2. Se revisó la literatura
+3. Se determinaron los ingredientes básicos de un posible modelo (Explorando las alternativas aprendidas durante el bootcamp)
+4. Se definió una posible hipótesis (Proponiendo encontrar un modelo que supere el 90% de accuracy)
+
+Dentro de la implementación del modelo:
+5. Se seleccionaron las herramientas a ser implementadas, donde se consideraron enfoques alternativos
+6. Se planificó el modelo, la arquitectura y la aplicación en vivo utilizados durante el proyecto
+7. Se implementó el modelo en Colaboratory de Google y Jupyter Notebooks
+8. Se completó el modelo modificando posibles hiperparámetros
+9. Se testeó y evaluó el modelo en vivo alcanzando muy buenas métricas y combinandolo con un sistema de retroalimentación multisensorial
+
+Para finalmente:
+10. Publicarlo en este Bootcamp
+
 ![image](https://user-images.githubusercontent.com/78177589/178867188-975fe1fb-ed6a-4bbb-93c9-32e0eaceb10c.png)
 
 
