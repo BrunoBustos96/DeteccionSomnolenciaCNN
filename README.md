@@ -128,6 +128,10 @@ Para finalmente:
 
 ![image](https://user-images.githubusercontent.com/78177589/178867188-975fe1fb-ed6a-4bbb-93c9-32e0eaceb10c.png)
 
+## Logos
+![image](https://user-images.githubusercontent.com/78177589/178888402-b48cbed9-4e83-4176-8eb6-68c6a611d226.png)
+![image](https://user-images.githubusercontent.com/78177589/178888712-e1361244-b40c-4db2-9d8e-86736c21b7c1.png)
+![image](https://user-images.githubusercontent.com/78177589/178888738-97b53519-d34b-41cb-888e-163c6493a7bc.png)
 
 ## Licencia
 
