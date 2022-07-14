@@ -59,14 +59,18 @@ En el caso de tener varios repositorios, realizar la guía correspondiente para 
 
 ## Trabajos Relacionados
 
-![image](https://user-images.githubusercontent.com/78177589/178849909-897b97cd-49c9-4d60-b38a-9545af1386d6.png)
-![image](https://user-images.githubusercontent.com/78177589/178849934-0a3ba0ab-872a-48f2-aab0-303cccdf42f1.png)
-![image](https://user-images.githubusercontent.com/78177589/178849974-67547845-0573-48a2-8784-9b95058c62f1.png)
-![image](https://user-images.githubusercontent.com/78177589/178849996-ef63afdd-dcbf-49f0-a325-e6bf201b7831.png)
-![image](https://user-images.githubusercontent.com/78177589/178850035-1a040d0f-770e-4025-b4ea-6a2a161728dc.png)
-![image](https://user-images.githubusercontent.com/78177589/178850060-2c724dcd-c237-4a74-ba06-190ac9d28cfd.png)
-![image](https://user-images.githubusercontent.com/78177589/178850102-e9e53f22-c9ef-4fa1-b2ab-f66cca1b5edf.png)
-![image](https://user-images.githubusercontent.com/78177589/178850123-6b8e74f7-6546-41c7-bcb6-0314831e4b32.png)
+![image](https://user-images.githubusercontent.com/78177589/178857156-aa829a4f-ed59-4a7a-b5aa-47b83d545d80.png)
+![image](https://user-images.githubusercontent.com/78177589/178857174-033d1d6b-f057-4c82-b740-70ad376138ac.png)
+![image](https://user-images.githubusercontent.com/78177589/178857225-a1464ccb-5814-4f0b-8d27-81dc79b0234b.png)
+![image](https://user-images.githubusercontent.com/78177589/178857244-4ec666e8-3277-4dd9-8557-5a37f1c7509a.png)
+![image](https://user-images.githubusercontent.com/78177589/178857268-d88addc4-5813-4160-a340-abc73ad29378.png)
+![image](https://user-images.githubusercontent.com/78177589/178857291-e915522b-2f61-4921-a226-bcfc886a5eb6.png)
+![image](https://user-images.githubusercontent.com/78177589/178857318-596bc8e4-80b6-4702-87f3-22ae812dc200.png)
+
+Garcés M., Salgado J., Cruz J., Cañon W. (2015), Sistemas de Detección de Somnolencia en Conductores: inicio, desarrollo y futuro. https://dialnet.unirioja.es/descarga/articulo/5432283.pdf 
+Gupta, V. (22 de octubre de 2018). Learn OpenCV. https://www.learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/ 
+Ramzan M, Ullah H, Mahmood S., Amina I., Ilyas M. (1 mayo 2019), A Survey on State-of-the-Art Drowsiness Detection Techniques. https://ieeexplore.ieee.org/abstract/document/8704263 
+Sanchez E., Limaquispe M., (junio 2018), Sistema de Detección de somnolencia mediante Inteligencia Artificial en Conductores de Vehículos para Alertar la Ocurrencia de Accidentes de Tránsito. https://repositorio.unh.edu.pe/bitstream/handle/UNH/2327/TESIS-2018-INGENIERIA%20ELECTRONICA-LIMAQUISPE%20MIGUEL.pdf?sequence=1&isAllowed=y
 
 
 ## Licencia
