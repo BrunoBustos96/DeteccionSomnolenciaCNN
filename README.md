@@ -109,14 +109,14 @@ Los pasos a seguir durante este proyecto fueron inspirados en: [A How-to-Model G
 3. Se determinaron los ingredientes básicos de un posible modelo (Explorando las alternativas aprendidas durante el bootcamp)
 4. Se definió una posible hipótesis (Proponiendo encontrar un modelo que supere el 90% de accuracy)
 
-Dentro de la implementación del modelo:
+Dentro de la implementación del modelo:  
 5. Se seleccionaron las herramientas a ser implementadas, donde se consideraron enfoques alternativos
 6. Se planificó el modelo, la arquitectura y la aplicación en vivo utilizados durante el proyecto
 7. Se implementó el modelo en Colaboratory de Google y Jupyter Notebooks
 8. Se completó el modelo modificando posibles hiperparámetros
 9. Se testeó y evaluó el modelo en vivo alcanzando muy buenas métricas y combinandolo con un sistema de retroalimentación multisensorial
 
-Para finalmente:
+Para finalmente:  
 10. Publicarlo en este Bootcamp
 
 ![image](https://user-images.githubusercontent.com/78177589/178867188-975fe1fb-ed6a-4bbb-93c9-32e0eaceb10c.png)
