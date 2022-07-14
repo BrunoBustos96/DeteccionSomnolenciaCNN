@@ -118,7 +118,7 @@ Dentro de la implementación del modelo:
   8. Se completó el modelo modificando posibles hiperparámetros  
   9. Se testeó y evaluó el modelo en vivo alcanzando muy buenas métricas y combinandolo con un sistema de retroalimentación multisensorial  
 
-Para finalmente:    
+Para finalmente:     
 
   10. Publicarlo en este Bootcamp
 
