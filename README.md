@@ -57,7 +57,7 @@ Dentro de los Objetivos de Desarrollo Sostenible, este proyecto se concentra pri
 
 ## Funcionalidades más importantes
 - Extracción del área de los ojos para una clasificación más precisa  
-- Modelo de Redes Neuronales Convolucionales de varias capas con una precisión alta  
+- Modelo de Redes Neuronales Convolucionales de varias capas con una precisión alta (>90%)  
 - Clasificación en tiempo real de somnolencia con etiquetas
 - Adición de un prototipo que alerta de manera sensorial, auditiva y visual en el modelo en vivo en caso de somnolencia
 
