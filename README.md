@@ -62,12 +62,18 @@ Dentro de los Objetivos de Desarrollo Sostenible, este proyecto se concentra pri
 - Adición de un prototipo que alerta de manera sensorial, auditiva y visual en el modelo en vivo en caso de somnolencia
 
 ## Instalación
+### Instalación de Software
 * Es importante tener instaladas, fuera de las librerías típicas de Ciencia de Datos (Numpy, MatPlotLib, Pandas), librerías como OpenCV, TensorFlow, Keras, face_recognition, playsound (A través del comando pip)
 * Se recomienda tener la cámara web activa en un entorno Desktop
 * Se recomienda tener la GPU activa (En Colaboratory)
 
 * En algunos sistemas operativos puede ser necesario instalar homebrew, cmake, dlib antes de instalar face_recognition, OpenCV y Playsound  
 - **Para la aplicación en vivo (Aplicacion del modelo final con la cámara web) se recomienda un IDE de escritorio (Pycharm, Spyder) corriendo un entorno virtual con todas las librerías necesarias**
+### Descripciones técnicas Arduino:
+En este caso se establecieron 9600 baudios para establecer una comunicación Serial y de igual manera, se determinaron los siguientes comandos para el funcionamiento de las alertas:
+- Para el encendido del LED Rojo y el motor, debemos mandar por Serial el caracter 'R'.
+- Para el encendido del LED Verde, debemos mandar por Serial 'N'.
+- Se le configura En ambos LN & CR para modificar la funcionalidad del Hardware con el teclado.
 
 ## Créditos
 - Israel Algodón (25 %)
