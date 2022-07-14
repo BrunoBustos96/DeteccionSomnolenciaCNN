@@ -17,9 +17,12 @@ Dentro de los Objetivos de Desarrollo Sostenible, este proyecto se concentra pri
 [![Link al video](https://upload.wikimedia.org/wikipedia/commons/archive/d/da/20151123111600%21Google_Drive_logo.png)](https://drive.google.com/file/d/1hifv4_kZ9eyYGI8D0iQLE_9xXUThOXyc/view)
 
 ## Capturas de pantalla
-### Objetivos de desarrollo sostenible objetivo:
+#### Objetivos de desarrollo sostenible objetivo:
 ![image](https://user-images.githubusercontent.com/78177589/178859934-7fbe2711-d946-4d9d-865d-269c9f5bd158.png)
+![image](https://user-images.githubusercontent.com/78177589/178860020-cf31161d-d26a-46b4-af66-287240e1c255.png)
+
 ![image](https://user-images.githubusercontent.com/78177589/178859946-a13b74f3-8b81-4f80-97ff-9f81db75fc6e.png)
+![image](https://user-images.githubusercontent.com/78177589/178860044-e0ba84b8-4d8c-4eae-85f6-cbf51181135d.png)
 
 
 ## Tecnologías utilizadas
