@@ -16,7 +16,7 @@ Dentro de los Objetivos de Desarrollo Sostenible, este proyecto se concentra pri
 ## Link al video
 [![Link al video](https://upload.wikimedia.org/wikipedia/commons/archive/d/da/20151123111600%21Google_Drive_logo.png)](https://drive.google.com/file/d/1hifv4_kZ9eyYGI8D0iQLE_9xXUThOXyc/view)
 
-## Capturas de pantalla
+## Capturas de pantalla e imágenes importantes
 #### Definición del problema
 ##### Objetivos de desarrollo sostenible objetivo:
 ![image](https://user-images.githubusercontent.com/78177589/178859934-7fbe2711-d946-4d9d-865d-269c9f5bd158.png)
