@@ -102,7 +102,7 @@ Sanchez E., Limaquispe M., (junio 2018), Sistema de Detección de somnolencia me
 
 ## Métodos
 
-Los pasos a seguir durante este proyecto fueron inspirados en: [![A How-to-Model Guide for Neuroscience](https://www.eneuro.org/content/7/1/ENEURO.0352-19.2019)]
+Los pasos a seguir durante este proyecto fueron inspirados en: [!A How-to-Model Guide for Neuroscience](https://www.eneuro.org/content/7/1/ENEURO.0352-19.2019)
 ![image](https://user-images.githubusercontent.com/78177589/178867188-975fe1fb-ed6a-4bbb-93c9-32e0eaceb10c.png)
 
 
