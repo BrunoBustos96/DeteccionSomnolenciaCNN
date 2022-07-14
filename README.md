@@ -17,12 +17,26 @@ Dentro de los Objetivos de Desarrollo Sostenible, este proyecto se concentra pri
 [![Link al video](https://upload.wikimedia.org/wikipedia/commons/archive/d/da/20151123111600%21Google_Drive_logo.png)](https://drive.google.com/file/d/1hifv4_kZ9eyYGI8D0iQLE_9xXUThOXyc/view)
 
 ## Capturas de pantalla
-#### Objetivos de desarrollo sostenible objetivo:
+###### Definición del problema
+###### Objetivos de desarrollo sostenible objetivo:
 ![image](https://user-images.githubusercontent.com/78177589/178859934-7fbe2711-d946-4d9d-865d-269c9f5bd158.png)
-![image](https://user-images.githubusercontent.com/78177589/178860020-cf31161d-d26a-46b4-af66-287240e1c255.png)
-
 ![image](https://user-images.githubusercontent.com/78177589/178859946-a13b74f3-8b81-4f80-97ff-9f81db75fc6e.png)
-![image](https://user-images.githubusercontent.com/78177589/178860044-e0ba84b8-4d8c-4eae-85f6-cbf51181135d.png)
+
+####### Objetivos
+![image](https://user-images.githubusercontent.com/78177589/178860273-2d7602f2-f813-4180-b1d7-1b1cbe859a22.png)
+####### Modelo de entrenamiento CNN
+![image](https://user-images.githubusercontent.com/78177589/178860309-76d00c10-e220-4e77-a3ef-11e0e1f67b26.png)
+####### Métricas
+![image](https://user-images.githubusercontent.com/78177589/178860374-f5d59d15-d461-4785-8280-d7e7d8e68c00.png)
+####### Resultados experimentales
+* Ojos abiertos
+![image](https://user-images.githubusercontent.com/78177589/178860602-b846a1bf-1de0-4abd-b33f-8b4bcc8a9903.png)
+* Ojos cerrados
+![image](https://user-images.githubusercontent.com/78177589/178860631-d3e9e9df-8ece-44ea-b918-7a1cc85c07c5.png)
+* Alerta
+![image](https://user-images.githubusercontent.com/78177589/178860768-7b9bd603-2b8d-4ff1-b442-a50d154e0d51.png)
+
+
 
 
 ## Tecnologías utilizadas
@@ -42,18 +56,19 @@ Dentro de los Objetivos de Desarrollo Sostenible, este proyecto se concentra pri
 - face_recognition
 
 ## Funcionalidades más importantes
--Extracción del área de los ojos para una clasificación más precisa  
--Modelo de Redes Neuronales Convolucionales de varias capas con una precisión alta  
--Clasificación en tiempo real de somnolencia con etiquetas
+- Extracción del área de los ojos para una clasificación más precisa  
+- Modelo de Redes Neuronales Convolucionales de varias capas con una precisión alta  
+- Clasificación en tiempo real de somnolencia con etiquetas
+- Alerta de tipo sensorial, auditiva y visual en el modelo en vivo en caso de somnolencia
 
 ## Instalación
 Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de desarrollo corriendo con el presente repositorio. 
 En el caso de tener varios repositorios, realizar la guía correspondiente para cada uno.
 
 ## Créditos
--Tracy Loza  
--Israel Algodón  
--Bruno Bustos  
+- Tracy Loza  
+- Israel Algodón  
+- Bruno Bustos  
 
 *Funciones de detección adaptadas de: https://towardsdatascience.com/drowsiness-detection-using-convolutional-neural-networks-face-recognition-and-tensorflow-56cdfc8315ad
 
