@@ -66,9 +66,9 @@ Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de 
 En el caso de tener varios repositorios, realizar la guía correspondiente para cada uno.
 
 ## Créditos
-- Israel Algodón (30 %)
-- Bruno Bustos  (30 %)
-- Tracy Loza (40 %)
+- Israel Algodón (25 %)
+- Bruno Bustos  (25 %)
+- Tracy Loza (50 %)
 
 * Funciones de detección adaptadas de: https://towardsdatascience.com/drowsiness-detection-using-convolutional-neural-networks-face-recognition-and-tensorflow-56cdfc8315ad
 
