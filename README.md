@@ -17,18 +17,18 @@ Dentro de los Objetivos de Desarrollo Sostenible, este proyecto se concentra pri
 [![Link al video](https://upload.wikimedia.org/wikipedia/commons/archive/d/da/20151123111600%21Google_Drive_logo.png)](https://drive.google.com/file/d/1hifv4_kZ9eyYGI8D0iQLE_9xXUThOXyc/view)
 
 ## Capturas de pantalla
-##### Definición del problema
-###### Objetivos de desarrollo sostenible objetivo:
+#### Definición del problema
+##### Objetivos de desarrollo sostenible objetivo:
 ![image](https://user-images.githubusercontent.com/78177589/178859934-7fbe2711-d946-4d9d-865d-269c9f5bd158.png)
 ![image](https://user-images.githubusercontent.com/78177589/178859946-a13b74f3-8b81-4f80-97ff-9f81db75fc6e.png)
 
-###### Objetivos
+##### Objetivos
 ![image](https://user-images.githubusercontent.com/78177589/178860273-2d7602f2-f813-4180-b1d7-1b1cbe859a22.png)
-####### Modelo de entrenamiento CNN
+##### Modelo de entrenamiento CNN
 ![image](https://user-images.githubusercontent.com/78177589/178860309-76d00c10-e220-4e77-a3ef-11e0e1f67b26.png)
-###### Métricas
+##### Métricas
 ![image](https://user-images.githubusercontent.com/78177589/178860374-f5d59d15-d461-4785-8280-d7e7d8e68c00.png)
-###### Resultados experimentales
+##### Resultados experimentales
 * Ojos abiertos
 ![image](https://user-images.githubusercontent.com/78177589/178860602-b846a1bf-1de0-4abd-b33f-8b4bcc8a9903.png)
 * Ojos cerrados
