@@ -14,7 +14,7 @@ Los accidentes de tránsito son un grave problema  en nuestro país, y aunque lo
 Dentro de los Objetivos de Desarrollo Sostenible, este proyecto se concentra principalmente en 2: ODS 3 "Salud y bienestar", buscando mejorar la seguridad vial de peatones y conductores; y el ODS 11 "Industria, innovación e infraestructura", buscando proponer soluciones innovadoras en nuestro entorno que puedan tener un impacto económico positivo.
 
 ## Video
-[![Watch the video](https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png)](https://drive.google.com/file/d/1hifv4_kZ9eyYGI8D0iQLE_9xXUThOXyc/view)
+[![Watch the video](https://upload.wikimedia.org/wikipedia/commons/archive/d/da/20151123111835%21Google_Drive_logo.png)](https://drive.google.com/file/d/1hifv4_kZ9eyYGI8D0iQLE_9xXUThOXyc/view)
 ## Capturas de pantalla
 Incluir logos o capturas de pantalla de las interfaces mas relevantes del proyecto.
 
