@@ -67,7 +67,7 @@ Dentro de los Objetivos de Desarrollo Sostenible, este proyecto se concentra pri
 * Se recomienda tener la GPU activa (En Colaboratory)
 
 * En algunos sistemas operativos puede ser necesario instalar homebrew, cmake, dlib antes de instalar face_recognition, OpenCV y Playsound  
-- **Para la aplicación en vivo se recomienda un IDE de escritorio (Pycharm, Spyder) corriendo un entorno virtual con todas las librerías necesarias**
+- **Para la aplicación en vivo (Aplicacion del modelo final con la cámara web) se recomienda un IDE de escritorio (Pycharm, Spyder) corriendo un entorno virtual con todas las librerías necesarias**
 
 ## Créditos
 - Israel Algodón (25 %)
