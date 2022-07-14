@@ -1,0 +1,5 @@
+Link al proyecto en Github:
+https://github.com/BrunoBustos96/DeteccionSomnolenciaCNN
+
+Link al video:
+https://drive.google.com/file/d/1hifv4_kZ9eyYGI8D0iQLE_9xXUThOXyc/view
