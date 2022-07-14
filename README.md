@@ -6,7 +6,7 @@ Proyecto final para el [Bootcamp en Visión Computacional para los Objetivos de 
 
 
 ## DeteccionSomnolenciaCNN
-El Backend del proyecto final de HackCities fue desarrollado en Jupyter Notebook y Colaboratory utilizando liberías de Procesamiento de Imágenes y Aprendizaje Profundo.
+El Backend del proyecto final de HackCities fue desarrollado en Pycharm y Colaboratory utilizando liberías de Procesamiento de Imágenes y Aprendizaje Profundo.
 
 ## Motivación
 Los accidentes de tránsito son un grave problema  en nuestro país, y aunque los efectos del alcohol y el cambio de carril sean las principales causas de dichos accidentes, la tercera más relevante es la somnolencia de los conductores, problema que puede ser atacado con una solución que implemente visión computacional en dispositivos de bajo costo. 
