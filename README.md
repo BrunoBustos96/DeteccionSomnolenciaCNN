@@ -62,8 +62,11 @@ Dentro de los Objetivos de Desarrollo Sostenible, este proyecto se concentra pri
 - Adición de un prototipo que alerta de manera sensorial, auditiva y visual en el modelo en vivo en caso de somnolencia
 
 ## Instalación
-Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de desarrollo corriendo con el presente repositorio. 
-En el caso de tener varios repositorios, realizar la guía correspondiente para cada uno.
+* Es importante tener instaladas, fuera de las librerías típicas de Ciencia de Datos (Numpy, MatPlotLib, Pandas), librerías como OpenCV, TensorFlow, Keras, face_recognition, playsound (A través del comando pip)
+* Se recomienda tener la cámara web activa en un entorno Desktop
+* Se recomienda tener la GPU activa (En Colaboratory)
+
+** En algunos sistemas operativos puede ser necesario instalar homebrew, cmake, dlib antes de instalar face_recognition, OpenCV y Playsound
 
 ## Créditos
 - Israel Algodón (25 %)
