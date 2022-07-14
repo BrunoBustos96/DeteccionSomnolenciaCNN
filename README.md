@@ -59,7 +59,7 @@ Dentro de los Objetivos de Desarrollo Sostenible, este proyecto se concentra pri
 - Extracción del área de los ojos para una clasificación más precisa  
 - Modelo de Redes Neuronales Convolucionales de varias capas con una precisión alta  
 - Clasificación en tiempo real de somnolencia con etiquetas
-- Alerta de tipo sensorial, auditiva y visual en el modelo en vivo en caso de somnolencia
+- Adición de un prototipo que alerta de manera sensorial, auditiva y visual en el modelo en vivo en caso de somnolencia
 
 ## Instalación
 Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de desarrollo corriendo con el presente repositorio. 
