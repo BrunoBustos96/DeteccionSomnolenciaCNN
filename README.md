@@ -5,7 +5,7 @@ Proyecto final para el [Bootcamp en Visión Computacional para los Objetivos de 
 ![image](https://user-images.githubusercontent.com/78177589/178857695-c6ab6e2a-e4f6-42d1-b69d-2e1378dd4ce2.png)
 
 
-## DeteccionSomnolenciaCNN
+## Detección de Somnolencia con CNNs
 El Backend del proyecto final de HackCities fue desarrollado en Pycharm y Colaboratory utilizando liberías de Procesamiento de Imágenes y Aprendizaje Profundo.
 
 ## Motivación
