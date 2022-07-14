@@ -66,7 +66,8 @@ Dentro de los Objetivos de Desarrollo Sostenible, este proyecto se concentra pri
 * Se recomienda tener la cámara web activa en un entorno Desktop
 * Se recomienda tener la GPU activa (En Colaboratory)
 
-** En algunos sistemas operativos puede ser necesario instalar homebrew, cmake, dlib antes de instalar face_recognition, OpenCV y Playsound
+* En algunos sistemas operativos puede ser necesario instalar homebrew, cmake, dlib antes de instalar face_recognition, OpenCV y Playsound  
+- **Para la aplicación en vivo (Aplicacion del modelo final con la cámara web) se recomienda un IDE de escritorio (Pycharm, Spyder) corriendo un entorno virtual con todas las librerías necesarias**
 
 ## Créditos
 - Israel Algodón (25 %)
@@ -127,6 +128,10 @@ Para finalmente:
 
 ![image](https://user-images.githubusercontent.com/78177589/178867188-975fe1fb-ed6a-4bbb-93c9-32e0eaceb10c.png)
 
+## Logos
+![image](https://user-images.githubusercontent.com/78177589/178888402-b48cbed9-4e83-4176-8eb6-68c6a611d226.png)
+![image](https://user-images.githubusercontent.com/78177589/178888712-e1361244-b40c-4db2-9d8e-86736c21b7c1.png)
+![image](https://user-images.githubusercontent.com/78177589/178888738-97b53519-d34b-41cb-888e-163c6493a7bc.png)
 
 ## Licencia
 
