@@ -84,7 +84,7 @@ En el caso de tener varios repositorios, realizar la guía correspondiente para 
 
 * Objetivos de desarrollo sostenible decididos a partir de la información proveída por Natalia Guerreros Lima en: https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/ODS%20primera%20parte.pdf
 
-# Secciones adicionales
+# Secciones adicionales (Los resultados experimentales son más profundizados en el video y en nuestras imágenes importantes)
 ## Trabajos Relacionados
 
 ![image](https://user-images.githubusercontent.com/78177589/178857156-aa829a4f-ed59-4a7a-b5aa-47b83d545d80.png)
